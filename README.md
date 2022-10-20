@@ -40,7 +40,7 @@ get the tests passing: `moveDodgerLeft()` and `moveDodgerRight()`. We'll write
 Open `index.html` in the browser. You'll see a black square which represents the
 game field and a white rectangle at the bottom of that field which is our game
 piece, the dodger. Now open DevTools and click on the Elements tab. You'll see
-that the game field is a `<div>` with an `id` of "game." Expand that `div` and
+that the game field is a `<d,.,.iv>` with an `id` of "game." Expand that `div` and
 you'll see that the game piece is a second, nested `<div>` with an `id` of
 "dodger."
 
